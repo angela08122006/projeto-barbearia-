@@ -1,8 +1,14 @@
+body {
+	
+	background: #cccccc
+}
+
 p {
-            text-align: center;
-        }
+                text-align: center;
+}
 
-        body {
+em strong {
+	
+	color: green;
+}
 
-            background: #cccccc;
-        }
